@@ -1,0 +1,13 @@
+.about_us
+{ 
+	width:955px;
+	float:left;
+	text-align:justify;
+	padding:10px;
+}
+.about_us ul li
+{
+	list-style-image:url(../images/tick.jpg);
+	color:#33F;
+	
+}
